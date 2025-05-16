@@ -13,11 +13,11 @@ Pe această pagină se află uniformele pentru persoanele care dețin certificat
 !!!
 
 ==- Băieți
-- Pălării: 71 (Textura: 0)
-- Jacheta: 611 (Textura: 0)
+- Pălării: 50 (Textura: 0)
+- Jacheta: 553 (Textura: 1)
 - Sub-Haină: 15 (Textura: 0)
-- Mâini/Mănuși: 204 (Textura: 0)
-- Pantaloni: 262 (Textura: 1)
+- Mâini/Mănuși: 179 (Textura: 0)
+- Pantaloni: 34 (Textura: 0)
 - Încălțăminte: 24 (Textura: 0)
 <p align="center">
     <img src="/docs/imagini/uniforme/moto/baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
