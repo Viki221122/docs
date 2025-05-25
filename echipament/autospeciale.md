@@ -14,81 +14,59 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 ## Autospeciale grupate pe grade
 +++ [!badge variant="warning" text="Asistent Debutant"]
 1. Ambulanță
-2. Ford Bronco *(OFF-ROAD Sandy / Paleto)*
-3. Logan *(doar după ora 19:00, iar pe timpul zilei doar cu aprobare pe distanțe foarte mari)*
+2. Ubermacht *(doar după ora 19:00, iar pe timpul zilei doar cu aprobare pe distanțe foarte mari)*
 +++ [!badge variant="warning" text="Asistent Generalist"]
 1. Ambulanță
-2. Ford Bronco *(OFF-ROAD Sandy / Paleto)*
-3. Logan
-4. Duster
-5. Elicopter *(CERTIFICAT PILOT)*
-6. Motocicletă *(CERTIFICAT MOTO)*
+2. Ubermacht
+3. Elicopter *(CERTIFICAT PILOT)*
+4. Motocicletă *(CERTIFICAT MOTO)*
 +++ [!badge variant="warning" text="Asistent Șef"]
 1. Ambulanță
-2. Ford Bronco (OFF-ROAD Sandy / Paleto)
-3. Logan
-4. Duster
-5. Hyundai
-6. Elicopter *(CERTIFICAT PILOT)*
-7. Motocicletă *(CERTIFICAT MOTO)*
-8. Ford Ranger
+2. Ubermacht
+3. Aleution
+4. Elicopter *(CERTIFICAT PILOT)*
+5. Motocicletă *(CERTIFICAT MOTO)*
 +++
 
 +++ [!badge variant="light" text="Medic Rezident"]
 1. Ambulanță
-2. Ford Bronco (OFF-ROAD Sandy / Paleto)
-3. Logan
-4. Duster
-5. Hyundai
-6. Elicopter *(CERTIFICAT PILOT)*
-7. Motocicletă *(CERTIFICAT MOTO)*
-8. Ford Ranger
-9. Volvo
+2. Ubermacht
+3. Aleution
+4. Elicopter *(CERTIFICAT PILOT)*
+5. Motocicletă *(CERTIFICAT MOTO)*
+6. Vulcar XC90
 +++ [!badge variant="light" text="Medic Primar"]
 1. Ambulanță
-2. Ford Bronco (OFF-ROAD Sandy / Paleto)
-3. Logan
-4. Duster
-5. Hyundai
-6. Elicopter *(CERTIFICAT PILOT)*
-7. Motocicletă *(CERTIFICAT MOTO)*
-8. Ford Ranger
-9. Volvo
+2. Ubermacht
+3. Aleution
+4. Elicopter *(CERTIFICAT PILOT)*
+5. Motocicletă *(CERTIFICAT MOTO)*
+6. Vulcar XC90
 +++ [!badge variant="light" text="Medic Specialist"]
 1. Ambulanță
-2. Ford Bronco (OFF-ROAD Sandy / Paleto)
-3. Logan
-4. Duster
-5. Hyundai
-6. Elicopter *(CERTIFICAT PILOT)*
-7. Motocicletă *(CERTIFICAT MOTO)*
-8. Ford Ranger
-9. Volvo
+2. Ubermacht
+3. Aleution
+4. Elicopter *(CERTIFICAT PILOT)*
+5. Motocicletă *(CERTIFICAT MOTO)*
+6. Vulcar XC90
 +++
 
 +++ [!badge variant="ghost" text="Șef de tură"]
 1. Ambulanță
-2. Ford Bronco (OFF-ROAD Sandy / Paleto)
-3. Logan
-4. Duster
-5. Hyundai
-6. Elicopter *(CERTIFICAT PILOT)*
-7. Motocicletă *(CERTIFICAT MOTO)*
-8. Ford Ranger
-9. Volvo
-10. Kia Sorento
+2. Ubermacht
+3. Aleution
+4. Elicopter *(CERTIFICAT PILOT)*
+5. Motocicletă *(CERTIFICAT MOTO)*
+6. Vulcar XC90
+7. Grotti
 +++ [!badge variant="ghost" text="Manager / Director"]
 1. Ambulanță
-2. Ford Bronco (OFF-ROAD Sandy / Paleto)
-3. Logan
-4. Duster
-5. Hyundai
-6. Elicopter
-7. Motocicletă
-8. Ford Ranger
-9. Volvo
-10. Kia Sorento
-11. BMW Seria 3
+2. Ubermacht
+3. Aleution
+4. Elicopter
+5. Motocicletă
+6. Vulcar XC90
+7. Grotti
 +++
 
 ## Detalii autospeciale
