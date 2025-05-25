@@ -93,7 +93,7 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 
 ## Detalii autospeciale
 ### Ambulanță
-<img src="/docs/echipament/img/ambulanta.png" alt="ambulanta" width="308" height="164"/> </br>
+<img src="/docs/echipament/img/oijuhnoljhn.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Ambulanță | Asistent Debutant+ | SAJ**
