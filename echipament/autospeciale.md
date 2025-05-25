@@ -92,7 +92,7 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 +++
 
 ## Detalii autospeciale
-### Ambulanță
+### Benefactor Ambulance
 <img src="/docs/echipament/img/oijuhnoljhn.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
@@ -102,66 +102,35 @@ Inspectoratul General pentru Situații de Urgență (I.G.S.U.), de la gradul de 
 Singura autospecială de unde poți scoate targa.
 !!!
 
-### Bronco
-<img src="/docs/echipament/img/bronco.png" alt="ambulanta" width="308" height="164"/> </br>
-
-!!!
-**Bronco | Asistent Debutant+ | SAJ OFF-ROAD**
-!!!
-!!!danger
-Poate fi folosită doar pe Sandy / Paleto
-!!!
-
-### Logan
+### Ubermacht
 <img src="/docs/echipament/img/logan.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
-**Logan | Asistent Generalist+ | SAJ**
+**Ubermacht Smurd | Asistent Generalist+ | SAJ**
 !!!
 !!!danger
 Poate fi condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe timpul zilei doar cu aprobare (pe distanțe foarte mari).
 !!!
 
-### Duster
-<img src="/docs/echipament/img/duster.png" alt="ambulanta" width="308" height="164"/> </br>
-
-!!!
-**Duster | Asistent Generalist+ | SAJ**
-!!!
-
-### Hyundai
+### Aleution
 <img src="/docs/echipament/img/hyundai.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
-**Hyundai | Asistent Șef+ | SAJ**
-!!!
-
-### Ford Ranger
-<img src="/docs/echipament/img/ranger.png" alt="ambulanta" width="308" height="164"/> </br>
-
-!!!
-**Ford Ranger | Asistent Șef+ | SAJ**
+**Vapid Aleution | Asistent Șef+ | SAJ**
 !!!
 
 ### Volvo
 <img src="/docs/echipament/img/volvo.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
-**Volvo XC90 | Medic Rezident+ | SAJ**
+**Vulcar XC90 | Medic Rezident+ | SAJ**
 !!!
 
-### Kia Sorento
-<img src="/docs/echipament/img/kia.png" alt="ambulanta" width="308" height="164"/> </br>
-
-!!!
-**Kia Sorento | Șef de tură+ | SAJ**
-!!!
-
-### BMW
+### Grotti
 <img src="/docs/echipament/img/bmw.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
-**BMW Seria 3 | Manager Spital+ | ALL DEPART.**
+**Grotti Conducere | Manager Spital+ | ALL DEPART.**
 !!!
 
 ### Moto
