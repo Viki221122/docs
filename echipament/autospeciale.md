@@ -103,7 +103,7 @@ Singura autospecială de unde poți scoate targa.
 !!!
 
 ### Ubermacht
-<img src="/docs/echipament/img/logan.png" alt="ambulanta" width="308" height="164"/> </br>
+<img src="/docs/echipament/img/ubermacht.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Ubermacht Smurd | Asistent Generalist+ | SAJ**
@@ -113,14 +113,14 @@ Poate fi condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe
 !!!
 
 ### Aleution
-<img src="/docs/echipament/img/hyundai.png" alt="ambulanta" width="308" height="164"/> </br>
+<img src="/docs/echipament/img/vapid.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Vapid Aleution | Asistent Șef+ | SAJ**
 !!!
 
 ### Volvo
-<img src="/docs/echipament/img/volvo.png" alt="ambulanta" width="308" height="164"/> </br>
+<img src="/docs/echipament/img/volvo2.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Vulcar XC90 | Medic Rezident+ | SAJ**
@@ -134,7 +134,7 @@ Poate fi condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe
 !!!
 
 ### Moto
-<img src="/docs/echipament/img/moto.png" alt="ambulanta" width="308" height="164"/> </br>
+<img src="/docs/echipament/img/moto2.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Moto | Asistent Generalist+ | SAJ & SMURD**
