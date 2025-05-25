@@ -127,7 +127,7 @@ Poate fi condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe
 !!!
 
 ### Grotti
-<img src="/docs/echipament/img/bmw.png" alt="ambulanta" width="308" height="164"/> </br>
+<img src="/docs/echipament/img/groti.png" alt="ambulanta" width="308" height="164"/> </br>
 
 !!!
 **Grotti Conducere | Manager Spital+ | ALL DEPART.**
