@@ -14,24 +14,19 @@ injectie
 !!!warning
 Este necesară o radiografie pentru a observa unde a ajuns glonțul
 !!!
-- /me pune pacientul pe masa de operatii
-- /me examineaza pacientul
-- /me conecteaza pacientul la aparatul de monitorizare
-- /me isi pune manusile si masca chirurgicala
-- /me ia trusa medicala pentru operatii
-- /me ia foarfecul din trusa si taie hainele
-- /me ia din trusa un dezinfectant si tifon apoi dezinfecteaza zona
-- /me ia o injectie cu anestezic si ii face injectie locala in zona glontului
-- /me ia bisturiul din trusa
-- /me face o mica incizie
-- /me ia doua departatoare si le monteaza
-- /me ia penseta chirurgicala din trusa
-- /me extrage cu grija glontul
-- /me demonteaza cele doua departatoare
-- /me ia din trusa un ac steril si ata chirurgicala
-- /me incepe sa coasa operatia
-- /me ia bandaje sterile si bandajeaza operatia
-
+- /me aseaza pacientul pe masa de operatie
+- /me verifica semnele vitale si conecteaza monitorizarea
+- /me isi pune echipamentul steril (manusi, masca, halat)
+- /me pregateste trusa chirurgicala
+- /me taie imbracamintea din jurul plagii
+- /me dezinfecteaza zona afectata
+- /me administreaza anestezie locala in jurul plagii
+- /me efectueaza o incizie mica cu bisturiul
+- /me monteaza departatoarele pentru acces
+- /me extrage glontul cu pensa chirurgicala
+- /me retrage departatoarele
+- /me coase plaga cu fir chirurgical resorbabil
+- /me aplica pansament steril si fixeaza cu bandaj
 ### Operație coastă fracturată
 !!!warning Pacientul are nevoie de operație pentru o coastă ruptă în cazul în care:
 - suferă de volet costal (în momentul în care inspiră, partea sănătoasă se ridică, iar partea bolnavă rămâne pe loc)
@@ -44,29 +39,17 @@ Este necesară o radiografie pentru a observa ce coastă este fracturată
 !!!danger
 Dacă nu este operat de urgență, coastele fracturate pot perfora plămânii
 !!!
-- /me aseaza pacientul pe masa de operatie
-- /me conecteaza pacientul la aparatul de monitorizare
-- /me isi pune manusile si masca chirurgicala
-- /me ia trusa medicala si o aduce langa masa de operatie
-- /me ia foarfecul din trusa si taie bluza pacientului
-- /me ii pune masca de oxigen
-- /me porneste anestezicul total
-- /me ia din trusa un dezinfectant si tifon apoi dezinfecteaza zona
-- /me ia bisturiul din trusa medicala
-- /me sectioneaza tesutul pana in zona coastei rupte
-- /me ia doua departatoare si le monteaza
-- /me ia o tija de pe masa
-- /me monteaza tija pe coasta cuprinzand ambele capete rupte ale coastei
-- /me ia niste suruburi de pe masa
-- /me prinde suruburile de tija
-- /me demonteaza cele doua departatoare
-- /me prinde pielea la loc
-- /me ia un ac steril si o ata medicinala din trusa
-- /me coase operatia
-- /me ia apa oxigenata si tifon din trusa
-- /me dezinfecteaza si curata rana
-- /me ia bandaje sterile din trusa
-- /me bandajeaza operatia
+- /me pozitioneaza pacientul in decubit dorsal
+- /me conecteaza aparatura de monitorizare
+- /me aplica oxigen si initiaza anestezie generala
+- /me dezinfecteaza zona toracica
+- /me face incizie la nivelul coastei afectate
+- /me monteaza departatoarele
+- /me aliniaza fragmentele costale cu tija metalica
+- /me fixeaza tija cu suruburi ortopedice
+- /me inchide toracele si coase pielea
+- /me curata si dezinfecteaza incizia
+- /me aplica pansament compresiv
 
 ### Operație fisuri la oase
 !!!warning Pacientul are nevoie de operație pentru fisură osoasă în cazul în care:
@@ -77,25 +60,15 @@ Dacă nu este operat de urgență, coastele fracturate pot perfora plămânii
 !!!danger
 Este necesară o radiografie pentru a observa fisura
 !!!
-- /me aseaza pacientul pe masa de operatie
-- /me conecteaza pacientul la aparatul de monitorizare
-- /me isi pune manusile si masca chirurgicala
-- /me ia trusa medicala si o aduce langa masa de operatie
-- /me ii pune masca de oxigen
-- /me porneste anestezicul total
-- /me ia bisturiul din trusa medicala si face o incizie in zona afectata
-- /me ia doua departatoare si le monteaza
-- /me observa fisura
-- /me ia o seringa cu oseina si umple fisurile
-- /me ia lampa UV si o mentine deasupra osului pentru a intari oseina
-- /me demonteaza cele doua departatoare
-- /me ia un ac steril si o ata medicinala din trusa
-- /me coase operatia
-- /me ia apa oxigenata si tifon din trusa
-- /me dezinfecteaza si curata rana
-- /me ia bandaje sterile din trusa
-- /me bandajeaza operatia
-- /me ii da masca de oxigen jos
+- /me plaseaza pacientul pe masa de interventie
+- /me verifica parametrii vitali
+- /me administreaza anestezie generala
+- /me face incizie la nivelul osului afectat
+- /me monteaza departatoarele
+- /me injecteaza oseina in fisura
+- /me aplica lampa UV pentru intarirea materialului
+- /me retrage departatoarele
+- /me sutureaza incizia si aplica pansament steril
 
 ### Operație ruptură de menisc
 !!!warning Pacientul are nevoie de operație pentru ruptură de menisc în cazul în care:
@@ -106,19 +79,15 @@ Este necesară o radiografie pentru a observa fisura
 !!!danger
 Este necesară o radiografie pentru a observa ruptura de menisc
 !!!
-- /me aseaza pacientul pe masa de operatie
-- /me conecteaza pacientul la aparatul de monitorizare
-- /me isi pune manusile si masca chirurgicala
-- /me ia trusa medicala si o aduce langa masa de operatie
-- /me ii pune masca de oxigen
-- /me porneste anestezicul total
-- /me ia bisturiul din trusa medicala si face o incizie in zona genunchiului
-- /me ia doua departatoare si le monteaza
-- /me ia o camera video foarte mica si o introduce prin incizie
-- /me se uita pe monitor si observa meniscul putin fisurat
-- /me ia bisturiul si face alte doua mici incizii
-- /me ia instrumentarul chirurgical
-- /me introduce usor port-acul de sutura si pensa chirurgicala
+- /me aseaza pacientul in pozitie chirurgicala
+- /me monitorizeaza functiile vitale
+- /me administreaza anestezie generala
+- /me face trei mici incizii la genunchi
+- /me introduce artroscopul si inspecteaza meniscul
+- /me efectueaza sutura meniscului cu port-ac si pensa
+- /me retrage instrumentele
+- /me sutureaza inciziile
+- /me aplica pansament steril si opreste anestezia
 !!!
 Te uiți pe monitor
 !!!
@@ -142,26 +111,13 @@ Te uiți pe monitor
 !!!danger
 Este necesară o radiografie pentru a observa hernia de disc
 !!!
-- /me aseaza pacientul pe masa de operatie
-- /me conecteaza pacientul la aparatul de monitorizare
-- /me isi pune manusile si masca chirurgicala
-- /me ia trusa medicala si o aduce langa masa de operatie
-- /me ii pune masca de oxigen
-- /me porneste anestezicul total
-- /me ia bisturiul si face o incizie mica la nivelul vertebrei L4
-- /me ia doua departatoare si le monteaza
-- /me ia instrumentarul chirurgical în miniatura
-- /me indeparteaza fragmentul herniat al discului
-- /me curata spatiul interverbetral
-- /me demonteaza cele doua departatoare
-- /me ia port-ac si fir de sutura
-- /me face sutura inciziei
-- /me il deconecteaza de la perfuzia cu anestezic
-- /me ia apa oxigenata si tifon din trusa
-- /me dezinfecteaza si curata rana
-- /me ia bandaje sterile din trusa
-- /me bandajeaza operatia
-- /me ii da masca de oxigen jos
+- /me plaseaza pacientul in decubit ventral
+- /me conecteaza monitorizarea si administreaza anestezie
+- /me face incizie la nivelul L4
+- /me monteaza departatoarele
+- /me indeparteaza fragmentul herniat cu microinstrumente
+- /me curata spatiul intervertebral
+- /me sutureaza zona si aplica pansament steril
 
 ### Operație apendicită
 !!!warning Pacientul are nevoie de operație de apendicită în cazul în care:
@@ -172,37 +128,21 @@ Este necesară o radiografie pentru a observa hernia de disc
 !!!danger Poți verifica prin următorul test:
 - se așază pacientul decubit dorsal și se face o mică flexie a piciorului drept
 !!!
-- /me aseaza pacientul pe masa de operatie
-- /me conecteaza pacientul la aparatul de monitorizare
-- /me isi pune manusile si masca chirurgicala
-- /me ia trusa medicala si o aduce langa masa de operatie
-- /me ii pune masca de oxigen
-- /me porneste anestezicul total
-- /me ia bisturiul si face o incizie perpendiculara la nivelul abdomenului
-- /me ia doua departatoare si le monteaza
-- /me observa apendicele inflamat
-- /me ia o pensa chirurgicala si apucă apendicele din partea inferioara
-- /me foloseste laserul pentru a fi indepartat (rana se cicatrizeaza pe loc, nu mai este nevoie de cusaturi la nivel intern)
-- /me indeparteaza apendicele
-- /me demonteaza cele doua departatoare
-- /me ia port-ac si fir de sutura
-- /me ia un ac steril si o ata medicinala din trusa
-- /me coase operatia
-- /me il deconecteaza de la perfuzia cu anestezic
-- /me ia apa oxigenata si tifon din trusa
-- /me dezinfecteaza si curata rana
-- /me ia bandaje sterile din trusa
-- /me bandajeaza operatia
-- /me ii da masca de oxigen jos
+- /me pozitioneaza pacientul pe masa de operatie
+- /me conecteaza aparatele si administreaza anestezie
+- /me face incizie abdominala in cadranul inferior drept
+- /me monteaza departatoarele
+- /me identifica si extrage apendicele cu pensa
+- /me cauterizeaza baza cu laser
+- /me sutureaza incizia
+- /me aplica pansament si opreste anestezia
 
 ### Operație scoatere tatuaje
-- /me aseaza pacientul pe masa de operatie
-- /me il ajuta sa isi de hainele jos
-- /me pregateste si porneste laserul
-- /me fixează laserul in zona tatuajelor ce urmeaza a fi eliminate
-- /me porneste laserul
-- /me porneste procesul de scoatere a tatuajelor
-- /me opreste laserul
-- /me bandajeaza locul unde a avut loc scoaterea tatuajelor
+- /me pozitioneaza pacientul in zona de tratament
+- /me igienizeaza suprafata tatuajului
+- /me seteaza parametrii laserului
+- /me aplica laserul secvential pe zona pigmentata
+- /me opreste dispozitivul si aplica pansament protector
+
 
 
