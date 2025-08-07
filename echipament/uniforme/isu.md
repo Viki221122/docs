@@ -16,21 +16,21 @@ Pe această pagină se află uniformele specifice activității la care particip
 
 ### Băieți
 ==- Mânecă scurtă
-- Jachete: 616 (Textura: 0)
+- Jachete: 558 (Textura: 1)
 - Sub-Haină: 153 (Textura: 0)
-- Mâini/Mănuși: 85 (Textura: 1)
-- Pantaloni: 277 (Textura: 0)
-- Încălțăminte: 25 (Textura: 0)
+- Mâini/Mănuși: 74 (Textura: 1)
+- Pantaloni: 208 (Textura: 0)
+- Încălțăminte: 24 (Textura: 0)
 <p align="center">
     <img src="/docs/imagini/uniforme/isu/smurd/scurt_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
 
 ==- Mânecă lungă
-- Jachete: 620 (Textura: 0)
-- Sub-Haină: 15 (Textura: 0)
-- Mâini/Mănuși: 93 (Textura: 1)
-- Pantaloni: 277 (Textura: 0)
-- Încălțăminte: 25 (Textura: 0)
+- Jachete: 560 (Textura: 1)
+- Sub-Haină: 153 (Textura: 0)
+- Mâini/Mănuși: 74 (Textura: 1)
+- Pantaloni: 203 (Textura: 2)
+- Încălțăminte: 24 (Textura: 0)
 <p align="center">
     <img src="/docs/imagini/uniforme/isu/smurd/lung_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
@@ -61,11 +61,11 @@ Pe această pagină se află uniformele specifice activității la care particip
 ## Inspecție
 
 ==- Băieți
-- Jacheta: 615 (Textura: 1)
-- Sub-Haină: 15 (Textura: 0)
-- Mâini/Mănuși: 85 (Textura: 1)
-- Pantaloni: 259 (Textura: 2)
-- Încălțăminte: 25 (Textura: 0)
+- Jacheta: 557 (Textura: 2)
+- Sub-Haină: 153 (Textura: 0)
+- Mâini/Mănuși: 74 (Textura: 1)
+- Pantaloni: 203 (Textura: 2)
+- Încălțăminte: 24 (Textura: 1)
 <p align="center">
     <img src="/docs/imagini/uniforme/isu/aviz/baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
@@ -84,12 +84,12 @@ Pe această pagină se află uniformele specifice activității la care particip
 ## Pompier
 
 ==- Băieți
-- Pălării: 137 (Textura: 0)
-- Jacheta: 613 (Textura: 0)
+- Pălării: 231 (Textura: 1)
+- Jacheta: 555 (Textura: 1)
 - Sub-Haină: 151 (Textura: 0)
-- Mâini/Mănuși: 204 (Textura: 0)
-- Pantaloni: 276 (Textura: 0)
-- Încălțăminte: 24 (Textura: 0)
+- Mâini/Mănuși: 110 (Textura: 1)
+- Pantaloni: 207 (Textura: 1)
+- Încălțăminte: 24 (Textura: 1)
 <p align="center">
     <img src="/docs/imagini/uniforme/isu/pompier/baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
@@ -105,3 +105,4 @@ Pe această pagină se află uniformele specifice activității la care particip
     <img src="/docs/imagini/uniforme/isu/pompier/fete.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
 ===
+
