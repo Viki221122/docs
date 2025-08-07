@@ -8,9 +8,9 @@ label: Regulament
 # Regulamentul Departamentului MOTO
 
 ## 1. Cerințe de bază
-- Asistent Șef
+- Asistent Generalist
 - Profesionalism și conduită ireproșabilă
-- 8 patrule pe săptămână (acestea vor fi postate pe #patrula-moto după modelul corespunzător, iar cele sub 20 minute nu vor fi luate în considerare pentru raport)
+- 6 ore de patrule pe săptămână, acestea vor fi postate pe #patrula-moto după modelul corespunzător. Atenție se contorizează doar o ora jumate pe zi!
 
 ## 2. Regulament
 1. Este strict interzis folosirea motorului de către persoanele ce nu dețin certificatul moto.
@@ -28,4 +28,5 @@ label: Regulament
 2. Utilizarea neautorizată a motocicletei în scopuri personale: 1/2 AV Moto
 3. Necompletarea rapoartelor de patrulare: 1/2 AV Moto
 4. Absență ședintă Moto: 1/2 AV Moto
+
 
