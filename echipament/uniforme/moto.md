@@ -29,7 +29,7 @@ Pe această pagină se află uniformele pentru persoanele care dețin certificat
 - Pălării: 49 (Textura: 1)
 - Jacheta: 145 (Textura: 4)
 - Sub-Haină: 189 (Textura: 0)
-- Mâini/Mănuși: 155 (Textura: 0)
+- Mâini/Mănuși: 155 (Textura: 1)
 - Pantaloni: 69 (Textura: 4)
 - Încălțăminte: 51 (Textura: 1)
 - Vesta 74 (Textura 1)
@@ -38,4 +38,5 @@ Pe această pagină se află uniformele pentru persoanele care dețin certificat
     <img src="/docs/imagini/uniforme/moto/fete.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
 ===
+
 
