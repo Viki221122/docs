@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.807872121563">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.807875165838">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../../../imagini/logosmurd.png" rel="icon">
-    <link href="../../../resources/css/retype.css?v=3.11.0.807872121563" rel="stylesheet">
+    <link href="../../../resources/css/retype.css?v=3.11.0.807875165838" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.11.0.807872121563" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.11.0.807875165838" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.11.0.807872121563" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.11.0.807875165838" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -187,7 +187,8 @@
     </div>
 </div>
 <ul>
-<li>/me ia buletinul domnului / doamnei</li>
+<li>/me cere actul de identitate</li>
+<li>/me ia buletinul pacientului</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -207,8 +208,7 @@
     </div>
 </div>
 <ul>
-<li>/me face copie la buletin</li>
-<li>/me ia buletinul și copia</li>
+<li>/me merge la imprimanta si face o copie</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -228,9 +228,12 @@
     </div>
 </div>
 <ul>
-<li>/me îi oferă buletinul</li>
-<li>/me ia o fișă de internare</li>
-<li>/me completează fișa de internare cu datele domnului / doamnei</li>
+<li>/me revine cu copia si inapoiaza buletinul</li>
+<li>/me ia o fisa de internare</li>
+<li>/me completeaza datele din act</li>
+<li>/me noteaza simptomele relatate de pacient</li>
+<li>/me ofera fisa pentru semnatura</li>
+<li>/me cheama asistenta sa conduca pacientul in salon</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -273,23 +276,24 @@
     </h3>
 </doc-anchor-target>
 <ul>
-<li>/me iși pune mănușile chirurgicale sterile</li>
+<li>/me isi pune manusile sterile</li>
 <li>/e mechanic</li>
-<li>/me examinează pacientul</li>
-<li>/me ia din sertar pulsoximetrul și îl montează pe degetul arătător</li>
-<li>/me il conectează la aparatul de  monitorizare</li>
-<li>/me ia din setar o branulă</li>
-<li>/me cauta linia venoasă și o prinde</li>
-<li>/me montează branula la mână</li>
-<li>/me conectează perfuzorul la medicamente</li>
-<li>/me pune perfuzia cu ser fiziologic pe stativ</li>
-<li>/me verifică pacientul de leziuni vizibile</li>
-<li>/me scoate sticluța cu betadină/rivanol/apă oxigenata din dulap</li>
-<li>/me dezinfectează rănile cu substanța respectivă</li>
-<li>/me scoate bandajele sterile din dulap</li>
-<li>/me bandajează rănile pacientului</li>
-<li>/me îi dă branula jos de la mana</li>
-<li>/me îi dă pulsoximetrul jos de pe deget</li>
+<li>/me examineaza pacientul vizual</li>
+<li>/me ia pulsoximetrul din sertar</li>
+<li>/me il monteaza pe degetul pacientului</li>
+<li>/me conecteaza pulsoximetrul la monitor</li>
+<li>/me verifica saturatia si pulsul</li>
+<li>/me identifica vena si monteaza o branula</li>
+<li>/me igienizeaza zona cu solutie antiseptica</li>
+<li>/me ataseaza perfuzorul si il conecteaza la branula</li>
+<li>/me pune serul fiziologic pe stativ</li>
+<li>/me cauta leziuni vizibile</li>
+<li>/me dezinfecteaza ranile (Betadina/Rivanol/Apa oxigenata)</li>
+<li>/me aplica bandaje sterile</li>
+<li>/me opreste perfuzia si scoate branula</li>
+<li>/me scoate pulsoximetrul</li>
+<li>/me arunca acul si branula in recipient special</li>
+<li>/me arunca manusile in cosul biohazard</li>
 </ul>
 <doc-anchor-target id="roleplay-analize-de-sânge">
     <h3>
@@ -315,19 +319,14 @@
     </div>
 </div>
 <ul>
-<li>/me isi pune manusile chirurgicale sterile</li>
-<li>/me scoate din sertar un holder cu ac steril</li>
-<li>/me scoate din sertar un garou</li>
-<li>/me scoate din sertar un adaptor pentru recoltarea analizelor de sange</li>
-<li>/me scoate din sertar un vacutainer</li>
-<li>/me strange cu ajutorul garoului in zona antebratului</li>
-<li>/me introduce holderul cu ac steril in adaptor</li>
-<li>/me introduce vacutainerul la capatul adaptorului</li>
-<li>/me punctioneaza vena pacientului</li>
-<li>/me introduce seringa in vena si extrage 100ml sange</li>
-<li>/me eticheteaza sangele cu numele pacientului</li>
-<li>/me ii da garoul jos</li>
-<li>/me ii pune pe intepatura o bucatica de vata imbibata in apa oxigenata</li>
+<li>/me isi pune manusi sterile</li>
+<li>/me ia un holder, ac steril, garou si vacutainer</li>
+<li>/me aplica garoul pe brat</li>
+<li>/me igienizeaza zona cu alcool</li>
+<li>/me punctioneaza vena si extrage sange</li>
+<li>/me eticheteaza vacutainerul cu numele pacientului</li>
+<li>/me scoate acul si aplica vata cu apa oxigenata</li>
+<li>/me arunca acul in recipientul de deseuri ascutite</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -347,8 +346,9 @@
     </div>
 </div>
 <ul>
-<li>/me testeaza proba de sange</li>
-<li>/me scoate analizele de sange la imprimanta</li>
+<li>/me duce proba la laborator</li>
+<li>/me analizeaza sangele</li>
+<li>/me noteaza rezultatul in fisa medicala</li>
 <li>/e clipboard</li>
 </ul>
 <div class="flex mb-6">
@@ -365,6 +365,9 @@
         </div>
         <div class="pr-5 ml-3 w-full">
 <p>Te duci cu analizele de sânge la pacient și i le citești</p>
+<ul>
+<li>/me revine la pacient cu rezultatele</li>
+</ul>
         </div>
     </div>
 </div>
@@ -375,10 +378,10 @@
     </h3>
 </doc-anchor-target>
 <ul>
-<li>/me scoate din dulap termometrul medical cu infrarosu</li>
-<li>/me porneste aparatul</li>
-<li>/me ii pune laserul pe frunte</li>
-<li>/me observa temperatura 34-37</li>
+<li>/me ia termometrul cu infrarosu</li>
+<li>/me il porneste si il indreapta spre frunte</li>
+<li>/me observa temperatura (ideal 34-37)</li>
+<li>/me noteaza temperatura in fisa pacientului</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -420,9 +423,9 @@
     </h3>
 </doc-anchor-target>
 <ul>
-<li>/me ia din dulap tensiometrul digital de brat</li>
-<li>/me monteaza tensiometrul pe brat in plica cotului</li>
-<li>/me porneste aparatul</li>
+<li>/me ia tensiometrul digital</li>
+<li>/me il monteaza pe brat</li>
+<li>/me porneste tensiometrul</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -442,7 +445,8 @@
     </div>
 </div>
 <ul>
-<li>/me observa tensiunea</li>
+<li>/me citeste tensiunea</li>
+<li>/me noteaza valorile in fisa pacientului</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -501,8 +505,7 @@
     </div>
 </div>
 <ul>
-<li>/me ia pensă sterila din sertar</li>
-<li>/me indeparteaza usor de pe arsura partile textile</li>
+<li>/me indeparteaza hainele de pe zona afectata cu pense sterile</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-ghost"></div>
@@ -522,12 +525,12 @@
     </div>
 </div>
 <ul>
-<li>/me ia din dulap o compresa cu gel calmant pentru arsuri</li>
-<li>/me pune compresele cu gel pe arsuri</li>
-<li>/me scoate din sertar o seringa cu 3 ml de calypsol</li>
-<li>/me cauta linia venoasa</li>
-<li>/me introduce seringa in vena</li>
-<li>/me scoate seringa si o arunca la cos</li>
+<li>/me aplica comprese cu gel pentru arsuri</li>
+<li>/me scoate din sertar o seringa cu 3 ml de Calypsol IV</li>
+<li>/me administreaza 3 ml Calypsol IV</li>
+<li>/me verifica tensiunea si pulsul pacientului</li>
+<li>/me monitorizeaza pacientul timp de 5 minute</li>
+<li>/me noteaza interventia in fisa pacientului</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -553,11 +556,12 @@
     </h3>
 </doc-anchor-target>
 <ul>
-<li>/me examineaza pacientul</li>
-<li>/me scoate din dulap un corset medicinal pentru spate</li>
-<li>/me trage corsetul peste toata cutia toracica a pacientului</li>
-<li>/me fixeaza corsetul</li>
-<li>/me strange corsetul</li>
+<li>/me examineaza zona lombara</li>
+<li>/me palpeaza pentru identificare puncte dureroase</li>
+<li>/me monteaza un corset medical</li>
+<li>/me fixeaza si strange corsetul</li>
+<li>/me administreaza analgezice</li>
+<li>/me recomanda investigatie RMN</li>
 <li>/me administreaza medicamente aferente pentru durerea de spate</li>
 </ul>
 <div class="flex mb-6">
@@ -650,8 +654,10 @@
     </div>
 </div>
 <ul>
-<li>/me il ajuta sa se aseze pe masa</li>
-<li>/me ia niste dopuri din dulap si i le da</li>
+<li>/me verifica daca pacientul are implanturi sau tatuaje metalice</li>
+<li>/me il ajuta sa se aseze pe masa de RMN</li>
+<li>/me ofera dopuri de urechi</li>
+<li>/me seteaza parametrii pe consola</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -670,9 +676,7 @@
         </div>
     </div>
 </div>
-<ul>
-<li>/me porneste scanarea RMN</li>
-</ul>
+<p>/me porneste scanarea si merge in camera de control</p>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
     <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
@@ -691,8 +695,9 @@
     </div>
 </div>
 <ul>
-<li>/me se uita pe monitor la zona afectata</li>
-<li>/me scoate rezultatele pe CD</li>
+<li>/me analizeaza imaginile</li>
+<li>/me salveaza rezultatele pe CD</li>
+<li>/me noteaza in dosarul medical</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -767,13 +772,12 @@
     </div>
 </div>
 <ul>
-<li>/me il ajuta sa se aseze pe masa</li>
-<li>/me ia din dulap un sort de protectie si o pune peste pacient</li>
-<li>/me trage aparatul peste persoana respectiva</li>
-<li>/me porneste aparatul cu raze x</li>
-<li>/me porneste monitoarele si apoi incepe scanarile cu raze x</li>
-<li>/me scaneaza cu aparatul de raze x peste zona afectata a persoanei facand fotografii fracturilor</li>
-<li>/me imprima pozele de la aparatul cu raze X</li>
+<li>/me il ajuta sa se aseze si pune sortul de protectie</li>
+<li>/me seteaza parametrii pe aparat</li>
+<li>/me porneste aparatul cu raze X</li>
+<li>/me scaneaza zona afectata</li>
+<li>/me imprim imaginile</li>
+<li>/me noteaza rezultatele in dosar</li>
 </ul>
 <doc-anchor-target id="roleplay-de-computer-tomograf-ct">
     <h3>
@@ -831,20 +835,16 @@
     </div>
 </div>
 <ul>
-<li>/me il ajuta sa se aseze pe masa</li>
-<li>/me ia mana pacientului si punctioneaza vena</li>
-<li>/me ia o branula din dulap</li>
+<li>/me verifica daca pacientul are alergie la iod</li>
+<li>/me verifica functia renala pentru substanta de contrast</li>
+<li>/me explica riscurile (radiatii, claustrofobie, alergii)</li>
 <li>/me introduce acul branulei in vena pacientului</li>
-<li>/me ia un plasture steril din dulap</li>
-<li>/me ataseaza plasturele steril pe branula</li>
-<li>/me ia din sertar substanta de contrast cu iod</li>
-<li>/me introduce substanta in branula</li>
-<li>/me administreaza substanta de contrast pacientului</li>
-<li>/me porneste aparatul</li>
-<li>/me scaneaza partea afectata</li>
-<li>/me face mai multe fotografii pentru a reconstrui imaginea 3D</li>
-<li>/me opreste aparatul</li>
-<li>/me printeaza rezultatele</li>
+<li>/me il ajuta sa urce pe masa aparatului CT</li>
+<li>/me monteaza branula pe vena</li>
+<li>/me administreaza substanta de contrast</li>
+<li>/me porneste scanarea CT si monitorizeaza pacientul</li>
+<li>/me salveaza imaginile si le analizeaza</li>
+<li>/me arunca materialele in cosul biohazard</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -915,14 +915,12 @@
     </div>
 </div>
 <ul>
-<li>/me ajuta pacientul sa se aseze in pozitia corecta, pe spate</li>
-<li>/me isi pune manusile</li>
-<li>/me ia foarfecul si taie obiectul vestimentar</li>
-<li>/me apuca soseta de turnare</li>
-<li>/me apuca banda rosie de turnare</li>
-<li>/me ii aplica soseta de turnare incet pe partea afectata</li>
-<li>/me apuca banda rosie de turnare si ii leaga partea afectata</li>
-<li>/me ridica partea afectata si aplica ghipsul</li>
+<li>/me ajuta pacientul sa se intinda</li>
+<li>/me taie hainele de pe zona afectata</li>
+<li>/me pregateste ghipsul cu tifon si apa</li>
+<li>/me aplica soseta de turnare si banda de fixare</li>
+<li>/me aplica ghipsul si il lasa la uscat 5 minute</li>
+<li>/me verifica pulsul periferic dupa imobilizare</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -948,12 +946,11 @@
     </h3>
 </doc-anchor-target>
 <ul>
-<li>/me il ajuta sa se aseze pe pat</li>
-<li>/me ajuta pacientul sa se aseze in pozitia corecta, pe spate</li>
-<li>/me ia din sertar un foarfec pentru ghips</li>
-<li>/me apuca foarfecul si taie cu grija ghipsul</li>
-<li>/me indeparteaza partea ghipsata</li>
-<li>/me ia o solutie de curatare si curata membrul de ghips</li>
+<li>/me aseaza pacientul pe pat</li>
+<li>/me taie ghipsul cu foarfeca speciala</li>
+<li>/me verifica integritatea zonei</li>
+<li>/me curata zona cu solutie dezinfectantas</li>
+<li>/me recomanda 4 saptamani de kinetoterapie si gel antiinflamator</li>
 </ul>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -979,12 +976,11 @@
     </h3>
 </doc-anchor-target>
 <ul>
-<li>/me examineaza pacientul</li>
-<li>/me constata ca are o fractura la picior/mana</li>
-<li>/me ia o atela ghipsata</li>
-<li>/me monteaza atela ghipsata pe membrul fracturat</li>
-<li>/me fixeaza atela ghipsata</li>
-<li>/me strange atela ghipsata</li>
+<li>/me constata fractura si o palpeaza usor</li>
+<li>/me alege o atela ghipsata potrivita</li>
+<li>/me monteaza atela pe membrul afectat</li>
+<li>/me o fixeaza si o strange corespunzator</li>
+<li>/me recomanda control ortopedic</li>
 </ul>
 
                                 
