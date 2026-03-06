@@ -2,11 +2,11 @@ input: .
 output: .retype
 url: https://viki221122.github.io/docs
 branding:
-  title: SMURD
-  label: v2.0
+  title: Skyline
+  label: v1.0
   logo: /imagini/logosmurd.png
 favicon: /imagini/logosmurd.png
 editor: 
   enabled: false
 footer:
-  copyright: "&copy; {{ year }}. Made with ❤︎ by Ștefan x Viki."
+  copyright: "&copy; {{ year }}. Made with ❤︎ by Viki."
