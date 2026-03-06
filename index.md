@@ -11,11 +11,5 @@ meta:
     <img src="/docs/imagini/logoskyline (1).png" alt="Logo Skyline" width="300">
 </p>
 
-Suntem o echipă tânără pasionată de robotică și tehnologie. Construim roboți, participăm la competiții și inovăm constant.
-Ce facem?
-
-Proiecte de inginerie - Roboți și sisteme automatizate
-Competiții - Ne testăm abilitățile la nivel național și internațional
-Inovație - Căutăm mereu soluții noi și mai bune
-
-Dacă ești interesat de robotică și vrei să faci parte din echipa noastră, contactează-ne!
+Suntem o echipă de robotică dedicată, care combină pasiunea pentru inovație cu un spirit puternic de echipă.
+Ne ghidăm după valori precum colaborarea, responsabilitatea și excelența, iar fiecare proiect pe care îl desfășurăm reflectă aceste principii. Scopul nostru este să construim roboți performanți, dar și să formăm caractere solide, capabile să facă față provocărilor tehnologice ale viitorului.
