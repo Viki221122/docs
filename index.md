@@ -8,7 +8,7 @@ meta:
 #
 
 <p align="center">
-    <img src="/docs/imagini/logoskyline.png" alt="Logo Skyline">
+    <img src="/docs/imagini/logoskyline.jpeg" alt="Logo Skyline">
 </p>
 
 Ne bucurăm că te-ai alăturat echipei! Acest site e aici ca să te ajute să te acomodezi cât mai ușor în departamentul nostru. Aici vei găsi ghiduri și informații utile despre proceduri, politica noastră și resursele disponibile.
