@@ -13,37 +13,35 @@ order: v1.5
 !!!
 Folosești animația */e kneel* când ajungi lângă pacient
 !!!
-- /me verifica pacientul
-- /me examineaza pacientul
-- /me verifica pulsul
-- /me constata ca pulsul e stabil
-- /me asculta cu stetoscopul toracele
-- /me ia o mini lanterna si verifica daca individul are pupilele dilatate
-- /me constata ca pacientul nu are accident vascular cerebral sau traumatism
-- /me il intoarce in pozitia de siguranta
-- /me ii pune o palma pe frunte si doua degete pe menton si face hiperextensia gatului, eliberand caile respiratorii
-- /me constata ca pacientul nu are hemoragie externa
+- /me se asigura ca zona este sigura  
+- /me verifica constienta pacientului  
+- /me controleaza pulsul si respiratia  
+- /me verifica pupilele cu lanterna  
+- /me asculta toracele cu stetoscopul  
+- /me verifica cavitatea bucala – caile aeriene sunt libere  
+- /me cauta sangerari sau traumatisme – negativ  
+- /me asaza pacientul in pozitie laterala de siguranta  
+- /me face hiperextensia capului pentru a mentine caile aeriene deschise  
 
 ### Roleplay Accident rutier
-- /me verifica pacientul
-- /me ia din geanta un guler cervical
-- /me fixeaza gulerul cervical
-- /me strange gulerul cervical
-- /me blocheaza capul bilateral si imobilizeaza fruntea
-- /me verifica pacientul
-- /me ia din geanta un corset medicinal
-- /me monteaza corsetul medicinal pe coloana pacientului
-- /me fixeaza corsetul medicinal
+- /me se asigura ca zona este sigura (trafic oprit, risc redus)  
+- /me verifica starea pacientului – constienta, puls, respiratie  
+- /me imobilizeaza capul manual  
+- /me scoate gulerul cervical din geanta  
+- /me aplica si fixeaza gulerul cervical  
+- /me mentine capul imobilizat bilateral  
+- /me verifica coloana vertebrala pentru traumatisme  
+- /me scoate corsetul spinal din geanta  
+- /me aplica si fixeaza corsetul pe spatele pacientului  
 
 ### Roleplay cu plăgi deschise
-- /me verifica pacientul
-- /me observa ca are o rana mica in zona X
-- /me ia din geanta o substanta pentru dezinfectarea ranii
-- /me ia din geanta un tifon steril
-- /me imbiba substanta in tifon
-- /me dezinfecteaza rana
-- /me ia din geanta bandaje
-- /me aplica bandajele pe rana
+- /me verifica zona – pacientul e stabil, fara alte pericole  
+- /me examineaza rana – localizare si gravitate  
+- /me scoate dezinfectantul si tifonul din geanta  
+- /me imbiba tifonul in dezinfectant  
+- /me curata rana prin tamponare usoara  
+- /me scoate bandajele sterile  
+- /me aplica si fixeaza bandajele pe plaga  
 
 ### Roleplay transport pacient
 !!!
@@ -54,77 +52,69 @@ Te duci în spatele ambulanței
 !!!
 Duci targa lângă pacient
 !!!
-- /me ridica usor pacientul si l ajuta sa se aseze pe targa
-- /me strange centurile de siguranta
+- /me ridica pacientul cu grija si il asaza pe targa 
+- /me fixeaza centurile de siguranta
 !!!
 Te duci cu targa la ambulanță
 !!!
-- /me baga targa usor in ambulanta
-- /me conecteaza masca de oxigen la tubul de oxigen
-- /me porneste tubul
-- /me ii pune masca de oxigen
-- /me il conecteaza la aparatul de monitorizare
-- /me inchide usile din spate
+- /me impinge targa in ambulanta  
+- /me conecteaza masca la tubul de oxigen  
+- /me porneste oxigenul si aplica masca pacientului  
+- /me conecteaza pacientul la monitorul vital  
+- /me inchide usile ambulantei  
+
 !!!
 După ce ajungi la spital
 !!!
-- /me ii da masca de oxigen jos
-- /me il deconecteaza de la aparate
-- /me scoate targa din ambulanta
+- /me opreste oxigenul si scoate masca  
+- /me deconecteaza pacientul de la monitor  
+- /me scoate targa din ambulanta  
+- /me preda pacientul echipei medicale din UPU  
 
 ### Roleplay căi respiratorii blocate
-- /me verifica pacientul
-- /me verifica pulsul pacientului
-- /me constata ca pacientul nu are puls
-- /me verifica cavitatea bucala a pacientului
-- /me observa ca are un corp strain in cavitatea bucala care ii blocheaza caile respiratorii
-- /me scoate din ambulanta un aspirator medical
-- /me porneste aspirator medical
-- /me incepe sa extraga corpul strain din cavitatea bucala
-- /me opreste aspirator medical
-- /me incepe manevra de CPR
+- /me se asigura ca zona este sigura  
+- /me verifica pulsul – absent  
+- /me inspecteaza cavitatea bucala  
+- /me observa un corp strain ce obstructioneaza caile aeriene  
+- /me scoate aspiratorul medical din ambulanta  
+- /me porneste aspiratorul si extrage corpul strain  
+- /me opreste aspiratorul  
+- /me incepe manevra de resuscitare – 30 compresii, 2 ventilatii  
 
 ### Roleplay Arsuri
-- /me examineaza pacientul
-- /me constata ca pacientul are arsuri de gradul 1/2/3/4/ (de preferat 1)
-- /me ia din geanta folia pentru arsuri
-- /me aplica folia de arsuri pe zonele afectate
+- /me evalueaza zona – pacientul e in siguranta  
+- /me examineaza arsurile – grad 1/2/3    
 !!!
 Apoi te duci și-l pui pe targă
 !!!
-- /me ia din ambulanta folia izoterma pentru arsuri
-- /me il inveleste cu folia izoterma pana la spital
+- /me scoate folia speciala pentru arsuri  
+- /me aplica folia pe zonele afectate  
+- /me aduce targa si asaza pacientul pe ea  
 
 ### Roleplay arcadă spartă
-- /me verifica pacientul de leziuni vizibile
-- /me localieaza rana deschisa
-- /me ii face staza la rana deschisa
-- /me observa ca are arcada sparta
-- /me ii pune trei copci la arcada
-- /me toaleteaza rana
-- /me ii pune gheata in zona capului
+- /me verifica zona – fara pericol activ  
+- /me examineaza pacientul – identifica leziunea la nivelul arcadei  
+- /me aplica staza locala pentru oprirea sangerarii  
+- /me toaletizeaza rana cu antiseptic  
+- /me aplica 3 copci pentru inchiderea plagii  
+- /me aplica gheata local pentru reducerea inflamatiei  
 
 ### Roleplay fractură piramidă nazală
-- /me examineaza pacientul
-- /me observa o fractura de piramida nazala
-- /me ia din geanta o substanta dezinfectanta
-- /me ia din geanta tifon steril
-- /me imbiba tifonul in substanta dezinfectanta
-- /me dezinfecteaza rana
-- /me ia o atela ghipsata din geanta
-- /me monteaza atela ghipsata
-- /me fixeaza atela ghipsata
+- /me verifica zona – este sigura  
+- /me examineaza nasul – identifica fractura piramidei nazale  
+- /me scoate tifon steril si dezinfectant din geanta  
+- /me curata zona cu atentie  
+- /me scoate atela gipsata nazala  
+- /me aplica si fixeaza atela pentru stabilizare  
 
 ### Roleplay stop cardio-respirator
-- /me verifica pacientul
-- /me verifica prin metoda P.A.S. (priveste, asculta, simte)
-- /me constata ca are stop cardio respirator
-- /me incruciseaza mainile pe pieptul lui si incepe masajul cardiac
-- /me ofera 30 compresii toracice repetate cu 2 ventilatii
-- /me se opreste din masajul cardiac
-- /me ia o seringa cu adrenalina din geanta
-- /me administreaza 5 unitati de adrenalina in pulpa piciorului
-- /me scoate seringa
+- /me evalueaza rapid zona – fara pericole  
+- /me aplica metoda P.A.S. – pacientul nu respira, puls absent  
+- /me incepe resuscitarea – 30 compresii, 2 ventilatii  
+- /me scoate seringa cu adrenalina din geanta  
+- /me administreaza 5 unitati in coapsa  
+- /me continua resuscitarea – verifica semne vitale  
+
 !!!
 Aștepți să-și revină și comunici cu el
 !!!
@@ -148,53 +138,41 @@ Aștepți să-și revină și comunici cu el
 !!!
 
 ### Roleplay dureri insuportabile după accident
-- /me examineaza pacientul
-- /me constata ca pacientul are un membru luxat
-- /me scoate trusa de prim ajutor din geanta
-- /me scoate o seringa cu un ac steril din trusa
-- /me scoate sticluta de morfina din trusa
-- /me introduce 3ml de morfina in seringa
-- /me cauta vena
-- /me introduce seringa in vena
-- /me scoate seringa
+- /me evalueaza pacientul si identifica membru luxat  
+- /me scoate trusa de prim ajutor si seringa cu ac steril  
+- /me pregateste 3 ml morfina in seringa  
+- /me cauta vena si injecteaza morfina  
+- /me monitorizeaza reactia pacientului  
 !!!
 Îl transporți la spital, îi faci RMN și continui RP
 !!!
 
 ### Roleplay pentru membru luxat
-- /me examineaza pacientul
-- /me observa ca are incheietura/mana/cotul/bratul/piciorul/genunchiul/glezna/tibia/umarul
-- /me scoate din geanta o atela vacuum
-- /me monteaza atela vacuum pe zona respectiva
-- /me strange atela vacuum
+- /me verifica zona afectata (incheietura, cot, genunchi etc.)  
+- /me scoate atela vacuum din geanta  
+- /me pozitioneaza si fixeaza atela pe membrul luxat  
+- /me strange atela pentru imobilizare  
+- /me ajuta pacientul sa urce pe targa  
 !!!
 Îl ajuți să se urce pe targă și-l transporți la spital
 !!!
 
 ### Stare de șoc anafilactic
-- /me examineaza pacientul
-- /me verifica pulsul
-- /me constata ca pulsul este stabil
-- /me verifica cavitatea bucala
-- /me constata ca limba este inflamata
-- /me constata ca pacientul este in soc anafilaftic
-- /me scoate trusa de prim ajutor
-- /me scoate o seringa si un ac steril
-- /me scoate sticluta de hidrocortizon/adrenalina din geanta
-- /me introduce hidrocortizonul/adrenalina in seringa
-- /me cauta vena
-- /me introduce seringa in vena si elibereaza substanta
-- /me scoate seringa
+- /me verifica pulsul – stabil  
+- /me inspecteaza cavitatea bucala – observa limba umflata  
+- /me constata soc anafilactic  
+- /me scoate trusa de prim ajutor  
+- /me pregateste seringa cu hidrocortizon/adrenalina  
+- /me injecteaza in vena substanta  
+- /me monitorizeaza pacientul  
 
 ### Roleplay de înec
-- /me examineaza pacientul
-- /me il aseaza pe spate imobilizat in pozitie de decubit dorsal
-- /me ii administreaza cinci ventilatii cu batista salvatorului
-- /me verifica pulsul
-- /me constata ca are nu are puls
-- /me ii elibereaza caile respiratorii
-- /me incruciseaza mainile pe pieptul lui si incepe masajul cardiac
-- /me ofera 30 compresii toracice repetate cu 2 ventilatii
+- /me asigura zona  
+- /me asaza pacientul pe spate, decubit dorsal  
+- /me administreaza 5 ventilatii cu batista salvatorului  
+- /me verifica pulsul – absent  
+- /me elibereaza caile respiratorii  
+- /me incepe resuscitarea: 30 compresii toracice, 2 ventilatii  
 !!!
 Victima ar trebui să-și revină
 !!!
@@ -204,16 +182,15 @@ Victima ar trebui să-și revină
 !!!
 Te duci la elicopter
 !!!
-- /me scoate targa mobila
-- /me desface targa mobila
-- /me urca pacientul pe targa
+- /me scoate targa mobila si o desfasoara  
+- /me urca pacientul pe targa  
 !!!
 Te duci la elicopter cu targa
 !!!
-- /me deschide carlinga elicopterului
-- /me introduce targa in locul special amenajat
-- /me conecteaza pacientul la aparatul de monitorizare
-- /me inchide carliga elicopterului
+- /me deschide carlinga elicopterului  
+- /me introduce targa in zona speciala  
+- /me conecteaza pacientul la monitorul vital  
+- /me inchide carlinga  
 
 ### Roleplay de înjunghiere
 - /me examineaza pacientul
@@ -249,20 +226,22 @@ Dacă dorește vaccinul antitetanos (dacă nu îl duci la spital)
 !!!
 
 ### Roleplay obstrucție căi aeriene
-- /me verifica pacientul
-- /me observa ca pacientul are caile respiratorii blocate
-- /me ii efectueaza cinci lovituri interscapulare
-- /me verifica dezobsutrctia dupa fiecare lovitura
+- /me verifica pacientul – observa caile respiratorii blocate  
+- /me efectueaza 5 lovituri interscapulare  
+- /me verifica daca au fost deblocate caile aeriene  
+
 !!!
 În cazul în care nu și-a revenit
 !!!
-- /me îi efectuează cinci compresiuni abdominale
+- /me aplica 5 compresiuni abdominale  
+- /me verifica din nou dezobstructia  
 !!!warning
 În cazul în care nu își revine nici așa faci roleplay-ul de ”căi respiratorii blocate”
 !!!
 !!!danger
 În cazul în care victima devine inconștientă începi manevra de resuscitare cardio-pulmonară
 !!!
+
 
 
 

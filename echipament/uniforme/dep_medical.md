@@ -17,11 +17,11 @@ Pe această pagină se află uniformele specifice gradului deținut.
 ### Băieți
 
 ==- Mânecă scurtă
-- Jachete: 615 (Textura: 2)
+- Jachete: 557 (Textura: 3)
 - Sub-Haină: 153 (Textura: 0)
 - Mâini/Mănuși: 85 (Textura: 1)
-- Pantaloni: 278 (Textura: 0)
-- Încălțăminte: 25 (Textura: 0)
+- Pantaloni: 209 (Textura: 0)
+- Încălțăminte: 24 (Textura: 0)
 <p align="center">
     <img src="/docs/imagini/uniforme/medical/asistent/scurt_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
@@ -64,11 +64,11 @@ Pe această pagină se află uniformele specifice gradului deținut.
 ### Băieți
 
 ==- Mânecă scurtă
-- Jachete: 615 (Textura: 3)
+- Jachete: 557 (Textura: 4)
 - Sub-Haină: 153 (Textura: 0)
 - Mâini/Mănuși: 85 (Textura: 1)
-- Pantaloni: 278 (Textura: 0)
-- Încălțăminte: 25 (Textura: 0)
+- Pantaloni: 209 (Textura: 0)
+- Încălțăminte: 24 (Textura: 0)
 <p align="center">
     <img src="/docs/imagini/uniforme/medical/asistent/scurt_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
@@ -76,7 +76,7 @@ Pe această pagină se află uniformele specifice gradului deținut.
 ==- Mânecă lungă
 - Jachete: 619 (Textura: 1)
 - Sub-Haină: 15 (Textura: 0)
-- Mâini/Mănuși: 90 (Textura: 1)
+- Mâini/Mănuși: 85 (Textura: 1)
 - Pantaloni: 278 (Textura: 0)
 - Încălțăminte: 25 (Textura: 0)
 <p align="center">
@@ -111,11 +111,11 @@ Pe această pagină se află uniformele specifice gradului deținut.
 ### Băieți
 
 ==- Mânecă scurtă
-- Jachete: 615 (Textura: 4)
+- Jachete: 557 (Textura: 5)
 - Sub-Haină: 153 (Textura: 0)
 - Mâini/Mănuși: 85 (Textura: 1)
-- Pantaloni: 278 (Textura: 0)
-- Încălțăminte: 25 (Textura: 0)
+- Pantaloni: 209 (Textura: 0)
+- Încălțăminte: 24 (Textura: 0)
 <p align="center">
     <img src="/docs/imagini/uniforme/medical/asistent/scurt_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
 </p>
@@ -157,10 +157,10 @@ Pe această pagină se află uniformele specifice gradului deținut.
 
 ### Băieți
 ==- Teren
-- Jachete: 610 (Textura: 0)
+- Jachete: 552 (Textura: 1)
 - Sub-Haină: 15 (Textura: 0)
-- Mâini/Mănuși: 88 (Textura: 1)
-- Pantaloni: 24 (Textura: 5)
+- Mâini/Mănuși: 88 (Textura: 2)
+- Pantaloni: 24 (Textura: 6)
 - Încălțăminte: 106 (Textura: 2)
 <p align="center">
     <img src="/docs/imagini/uniforme/medical/m_rezident/teren_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
@@ -203,10 +203,10 @@ Pe această pagină se află uniformele specifice gradului deținut.
 
 ### Băieți
 ==- Teren
-- Jachete: 610 (Textura: 2)
+- Jachete: 552 (Textura: 3)
 - Sub-Haină: 15 (Textura: 0)
-- Mâini/Mănuși: 88 (Textura: 1)
-- Pantaloni: 24 (Textura: 5)
+- Mâini/Mănuși: 88 (Textura: 2)
+- Pantaloni: 24 (Textura: 6)
 - Încălțăminte: 106 (Textura: 2)
 <p align="center">
     <img src="/docs/imagini/uniforme/medical/m_primar/teren_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
@@ -249,10 +249,10 @@ Pe această pagină se află uniformele specifice gradului deținut.
 
 ### Băieți
 ==- Teren
-- Jachete: 610 (Textura: 1)
+- Jachete: 552 (Textura: 2)
 - Sub-Haină: 15 (Textura: 0)
-- Mâini/Mănuși: 88 (Textura: 1)
-- Pantaloni: 24 (Textura: 5)
+- Mâini/Mănuși: 88 (Textura: 2)
+- Pantaloni: 24 (Textura: 6)
 - Încălțăminte: 106 (Textura: 2)
 <p align="center">
     <img src="/docs/imagini/uniforme/medical/m_specialiast/teren_baieti.png" style="border-radius: 20px;" width="303" height="385" alt="Departamentul Medical">
