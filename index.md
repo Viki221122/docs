@@ -8,7 +8,7 @@ meta:
 #
 
 <p align="center">
-    <img src="/docs/imagini/logoskyline.png" alt="Logo Skyline" width="300">
+    <img src="/docs/imagini/logoskyline (1).png" alt="Logo Skyline" width="300">
 </p>
 
 Suntem o echipă tânără pasionată de robotică și tehnologie. Construim roboți, participăm la competiții și inovăm constant.
